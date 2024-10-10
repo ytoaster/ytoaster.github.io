@@ -9,10 +9,7 @@ url: # (optional) https://example.com, defaults to http://localhost:4000 in deve
 
 permalink: date # how your URLs are built, see https://jekyllrb.com/docs/permalinks/#builtinpermalinkstyles
 
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme
-# timezone: America/Los_Angeles # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Warsaw # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # theme: minima 
 # look for themes on https://github.com/topics/jekyll-theme and https://rubygems.org/search?utf8=%E2%9C%93&query=jekyll-theme
